@@ -4,18 +4,12 @@
     <property name="created">2021-09-03T07:40:13</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2021.2.1.0.0</property>
-    <property name="modified">2021-09-03T07:43:36</property>
+    <property name="modified">2021-09-03T08:17:22</property>
     <property name="originalScheme">Cobalt 2</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="2.0" />
-  <font>
-    <option name="EDITOR_FONT_NAME" value="Cascadia Code" />
-    <option name="EDITOR_FONT_SIZE" value="18" />
-  </font>
-  <font>
-    <option name="EDITOR_FONT_NAME" value="Fira Code" />
-    <option name="EDITOR_FONT_SIZE" value="18" />
-  </font>
+  <option name="LINE_SPACING" value="2.5" />
+  <option name="EDITOR_FONT_SIZE" value="25" />
+  <option name="EDITOR_FONT_NAME" value="Fira Code Medium" />
   <option name="EDITOR_LIGATURES" value="true" />
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Cascadia Code" />
@@ -26,6 +20,7 @@
     <option name="EDITOR_FONT_SIZE" value="18" />
   </console-font>
   <option name="CONSOLE_LIGATURES" value="true" />
+  <option name="CONSOLE_LINE_SPACING" value="2.0" />
   <colors>
     <option name="CARET_COLOR" value="ffffff" />
     <option name="CARET_ROW_COLOR" value="1629" />
